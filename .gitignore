@@ -1,0 +1,7 @@
+DB.sqlite
+SQLiteActive.userprefs
+TestDB.sqlite
+bin
+test-results
+SQLiteActiveRelease
+*.v12.sln
